@@ -1,2 +1,2 @@
-# CS 648 Assignment13
-Created My inventory using _MongoDB and Nodejs_
+# CS 648 Assignment 13
+
